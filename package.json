@@ -1,0 +1,17 @@
+{
+  "name": "let-me-solo-her-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot of the legendary Elden Ring player let me solo her",
+  "main": "twitter.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Kartachov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twitter-api-v2": "^1.12.0"
+  }
+}
